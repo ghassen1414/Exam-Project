@@ -102,24 +102,24 @@ namespace Testtrain1
             using (HttpClient client = new HttpClient())
             {
                 string url = $"https://api.coingecko.com/api/v3/simple/price?ids={cryptoName}&vs_currencies=usd";
-                string response = await client.GetStringAsync(url); // Fetch data from the API
-                JObject json = JObject.Parse(response); // Parse the JSON response
-                return json[cryptoName]["usd"].ToString(); // Extract the USD price
+                string response = await client.GetStringAsync(url); // Fetc data from the API
+                JObject json = JObject.Parse(response); // JSON response
+                return json[cryptoName]["usd"].ToString(); // get USD price
             }
         }
         private async void FetchCryptoPrices()
         {
             try
             {
-                string btcPrice = await GetCryptoPrice("bitcoin");   // Fetch Bitcoin price
-                string ethPrice = await GetCryptoPrice("ethereum"); // Fetch Ethereum price
-                string solPrice = await GetCryptoPrice("solana");   // Fetch Solana price
-                string adaPrice = await GetCryptoPrice("cardano");  // Fetch Cardano price
+                string btcPrice = await GetCryptoPrice("bitcoin");   
+                string ethPrice = await GetCryptoPrice("ethereum"); 
+                string solPrice = await GetCryptoPrice("solana");   
+                string adaPrice = await GetCryptoPrice("cardano");  
 
-                label9.Text = $"${btcPrice}";  // Update Bitcoin label
-                label11.Text = $"${ethPrice}"; // Update Ethereum label
-                label10.Text = $"${solPrice}"; // Update Solana label
-                label12.Text = $"${adaPrice}"; // Update Cardano label
+                label9.Text = $"${btcPrice}";  
+                label11.Text = $"${ethPrice}"; 
+                label10.Text = $"${solPrice}"; 
+                label12.Text = $"${adaPrice}"; 
             }
             catch (Exception ex)
             {

@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|c:\\users\\zarrouk\\source\\repos\\testtrain1\\testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|c:\\users\\zarrouk\\source\\repos\\testtrain1\\testtrain1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|c:\\users\\zarrouk\\source\\repos\\testtrain1\\testtrain1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|c:\\users\\zarrouk\\source\\repos\\testtrain1\\testtrain1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|c:\\users\\zarrouk\\source\\repos\\testtrain1\\testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|solutionrelative:testtrain1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84CD6F50-C276-4EE5-AFE7-27837F01CC10}|Testtrain1\\Testtrain1.csproj|c:\\users\\zarrouk\\source\\repos\\testtrain1\\testtrain1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Form6.cs",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form6.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form6.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form4.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form4.cs",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Form5.cs",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form5.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form5.cs",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form3.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form3.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form2.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form2.cs",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form6.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form6.cs",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form5.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form5.cs",
@@ -159,19 +159,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form4.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form4.cs",
               "ToolTip": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form4.cs [Design]",
               "RelativeToolTip": "Testtrain1\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:56:53.542Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-18T09:56:53.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form3.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form3.cs",
@@ -183,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form2.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form2.cs",
@@ -195,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form1.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form1.cs",
@@ -207,13 +206,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form1.cs",
               "RelativeDocumentMoniker": "Testtrain1\\Form1.cs",
               "ToolTip": "C:\\Users\\Zarrouk\\source\\repos\\Testtrain1\\Testtrain1\\Form1.cs",
               "RelativeToolTip": "Testtrain1\\Form1.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAUwDYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T12:11:00.057Z",
               "EditorCaption": ""
@@ -228,8 +227,7 @@
               "RelativeToolTip": "Testtrain1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:56:59.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T12:56:59.844Z"
             },
             {
               "$type": "Document",
@@ -241,8 +239,7 @@
               "RelativeToolTip": "Testtrain1\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:44:43.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T12:44:43.887Z"
             }
           ]
         }

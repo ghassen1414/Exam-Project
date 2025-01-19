@@ -1,3 +1,6 @@
+using System.Text;
+using System.Security.Cryptography;
+
 namespace Testtrain1
 {
     public partial class Form1 : Form
@@ -19,6 +22,7 @@ namespace Testtrain1
             string username = textBox1.Text;
             string password = textBox2.Text;
             string path = "users.csv";
+            string hashedPassword = HashPassword(password);
             if (File.Exists(path))
             {
                 string[] AllUsers = File.ReadAllLines(path);
@@ -31,13 +35,13 @@ namespace Testtrain1
                         return;
                     }
                 }
-                 string NewUserEntry = $"{username},{password},0,0,0,0";
+                string NewUserEntry = $"{username},{hashedPassword},0,0,0,0";
                 File.AppendAllText(path, NewUserEntry + Environment.NewLine);
                 MessageBox.Show("User registerd successfully!");
             }
             else
             {
-                string NewUserEntry = $"{username},{password},0,0,0,0";
+                string NewUserEntry = $"{username},{hashedPassword},0,0,0,0";
                 File.WriteAllText(path, NewUserEntry + Environment.NewLine);
                 MessageBox.Show("User registerd successfully!");
             }
@@ -48,6 +52,7 @@ namespace Testtrain1
             string username = textBox1.Text;
             string password = textBox2.Text;
             string path = "users.csv";
+            string hashedPassword = HashPassword(password);
             if (File.Exists(path))
             {
                 bool isUserFound = false;
@@ -55,7 +60,7 @@ namespace Testtrain1
                 foreach (string user in AllUsers)
                 {
                     string[] UserInfo = user.Split(",");
-                    if (UserInfo.Length >= 2 && UserInfo[0] == username && UserInfo[1] == password)
+                    if (UserInfo.Length >= 2 && UserInfo[0] == username && UserInfo[1] == hashedPassword)
                     {
                         isUserFound = true;
                         Form2 form2 = new Form2(username);
@@ -85,6 +90,22 @@ namespace Testtrain1
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             textBox2.PasswordChar = '*';
+        }
+        private string HashPassword(string password)
+        {
+            using (SHA256 sha256Hash = SHA256.Create())
+            {
+                
+                byte[] bytes = sha256Hash.ComputeHash(Encoding.UTF8.GetBytes(password)); //to byte
+
+                
+                StringBuilder builder = new StringBuilder(); //to hexadecimal array
+                foreach (byte b in bytes)
+                {
+                    builder.Append(b.ToString("x2"));
+                }
+                return builder.ToString();
+            }
         }
     }
 

@@ -22,3 +22,4 @@ C:\Users\Zarrouk\source\repos\Testtrain1\Testtrain1\obj\Debug\net8.0-windows\Tes
 C:\Users\Zarrouk\source\repos\Testtrain1\Testtrain1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\Users\Zarrouk\source\repos\Testtrain1\Testtrain1\obj\Debug\net8.0-windows\Testtrain1.csproj.AssemblyReference.cache
 C:\Users\Zarrouk\source\repos\Testtrain1\Testtrain1\obj\Debug\net8.0-windows\Testtrain1.csproj.Up2Date
+C:\Users\Zarrouk\source\repos\Testtrain1\Testtrain1\obj\Debug\net8.0-windows\Testtrain1.sourcelink.json
